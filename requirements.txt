@@ -1,0 +1,3 @@
+numpy
+scrapy
+urllib3
