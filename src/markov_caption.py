@@ -1,6 +1,6 @@
 import numpy as np
 
-captions = open('../data/captions.txt', encoding='utf8').read()
+captions = open('../instascraper/test.csv', encoding='utf8').read()
 
 corpus = captions.split()
 
